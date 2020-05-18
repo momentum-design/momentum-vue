@@ -1,2 +1,2 @@
-@momentum-ui/angular is deprecated an no longer maintained
+# @momentum-ui/vue is deprecated an no longer maintained
 This repo is for historical reference only.
